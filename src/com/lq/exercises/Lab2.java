@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package practica;
+package com.lq.exercises;
 
 /**
  *
  * @author saidn
  */
-public class Practica {
+public class Lab2 {
 
     /**
      * @param args the command line arguments
